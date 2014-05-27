@@ -1,12 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="net.danielgriffin.myStaticJSONList" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>MyStaticJSONList</name>
+<widget id="net.danielgriffin.myStaticJSONList2" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>MyStaticJSONList2</name>
     <description>
-        Just a list of choonz.
+        Just another list of choonz.
     </description>
     <author email="daniel.griffin@digitalskillsacademy.com" href="http://danielgriffin.net">
         Daniel Griffin
     </author>
     <content src="index.html" />
     <access origin="*" />
+	
+	<icon src="icon.png" />
+	<feature name="http://api.phonegap.com/1.0/network"/>
+
+	
 </widget>
