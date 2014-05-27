@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="net.danielgriffin.myStaticJSONList" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>MyStaticJSONList</name>
+    <description>
+        Just a list of choonz.
+    </description>
+    <author email="daniel.griffin@digitalskillsacademy.com" href="http://danielgriffin.net">
+        Daniel Griffin
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
